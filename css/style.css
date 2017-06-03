@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+#score-board {
+    width: 504px;
+    margin:0px auto 0px auto;
+    background-color: #bcbcbc;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+}
+
+#score, #life{
+    color: #4f4c47;
+    margin: 10px 25px 10px 25px;
+    font-family: serif;
+    font-size: 30px;
+    font-family: 'Days One', sans-serif;
+}
+
+#header{
+    width: 504px;
+    margin: 0px auto 0px auto;
+    background-color:#ed8f04;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#title {
+    width: 504px;
+    font-family: 'Baloo', cursive;
+    margin-bottom: 0px;
+}
+
+#subtitle {
+    width: 504px;
+    font-family: 'Baloo', cursive;
+    margin-top: 0px;
+}
