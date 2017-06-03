@@ -4,6 +4,7 @@
 
 Download this repository in your desktop, unzip it and open the "index.html" file in your browser to play the game.
 
+
 ### How to Play the Game
 
 * Use arrow keys to change a character.
