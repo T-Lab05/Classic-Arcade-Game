@@ -1,7 +1,3 @@
-/* I referenced https://github.com/eamoh/frontend-nanodegree-arcade-game/blob/master/js/app.js
- * for Start menu and Selector object. Of course, I aranged it so that it works in my code.
- */
-
 
 // creating XSTEP for Player left and right movements and YSTEP for
 // Player up and down movements. XSTEP is calculated as one-fifth of
