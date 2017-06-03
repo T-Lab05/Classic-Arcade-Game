@@ -2,7 +2,9 @@
 
 ### How to Run the Game
 
-Download this repository in your desktop, unzip it and open the "index.html" file in your browser to play the game.
+1. Download this repository in your desktop
+2. Unzip the downloaded folder. 
+3. Open the "index.html" file in your browser to play the game.
 
 
 ### How to Play the Game
