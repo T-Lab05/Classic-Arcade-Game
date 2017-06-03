@@ -17,3 +17,6 @@
 * The game is over when your life count is 0.
 * Get high scores as much as possible!!.
 
+## Attribution
+I referenced [eamoh's work](https://github.com/eamoh/frontend-nanodegree-arcade-game]
+for Start menu and Selector object. Of course, I aranged it so that it works in my code.
