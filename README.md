@@ -19,4 +19,4 @@
 
 ### Attribution
 I referenced [eamoh's work](https://github.com/eamoh/frontend-nanodegree-arcade-game)
-for Start menu and Selector object. Of course, I aranged it so that it works in my code.
+for Start menu and Selector object. Of course, I arranged it so that it works in my code.
