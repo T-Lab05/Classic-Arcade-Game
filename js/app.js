@@ -1,5 +1,5 @@
 /* I referenced https://github.com/eamoh/frontend-nanodegree-arcade-game/blob/master/js/app.js
- * for Selector object. I aranged it so that it works in my code.
+ * for Start menu and Selector object. Of course, I aranged it so that it works in my code.
  */
 
 
