@@ -6,6 +6,8 @@
 2. Unzip the downloaded folder. 
 3. Open the "index.html" file in your browser to play the game.
 
+Note: You can also start the game by clicking the following link: 
+https://t-lab05.github.io/Classic-Arcade-Game/
 
 ### How to Play the Game
 
